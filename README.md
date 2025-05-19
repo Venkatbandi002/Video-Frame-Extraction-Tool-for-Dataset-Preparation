@@ -17,6 +17,9 @@
 
 ## Screenshots
 
-![Screenshot 2025-05-19 102424](https://github.com/user-attachments/assets/12143fa6-a18d-414b-ac04-3369bea64cc8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12143fa6-a18d-414b-ac04-3369bea64cc8" alt="Screenshot" width="500" />
+</p>
+
 
 ---
